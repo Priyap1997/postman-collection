@@ -37,13 +37,7 @@
 					]
 				},
 				"method": "GET",
-				"header": [
-					{
-						"key": "emailAddress",
-						"value": "parsharpr@gmail.commm",
-						"type": "text"
-					}
-				],
+				"header": [],
 				"url": {
 					"raw": "http://localhost:8090/api/hello",
 					"protocol": "http",
@@ -91,13 +85,7 @@
 					]
 				},
 				"method": "GET",
-				"header": [
-					{
-						"key": "emailAddress",
-						"value": "parsharpr@gmail.commm",
-						"type": "text"
-					}
-				],
+				"header": [],
 				"url": {
 					"raw": "http://localhost:8090/api/hello",
 					"protocol": "http",
@@ -145,13 +133,7 @@
 					]
 				},
 				"method": "GET",
-				"header": [
-					{
-						"key": "emailAddress",
-						"value": "parsharpr@gmail.commm",
-						"type": "text"
-					}
-				],
+				"header": [],
 				"url": {
 					"raw": "http://localhost:8090/api/hello",
 					"protocol": "http",
@@ -199,13 +181,7 @@
 					]
 				},
 				"method": "GET",
-				"header": [
-					{
-						"key": "emailAddress",
-						"value": "parsharpr@gmail.commm",
-						"type": "text"
-					}
-				],
+				"header": [],
 				"url": {
 					"raw": "http://localhost:8090/api/hello",
 					"protocol": "http",
@@ -253,13 +229,7 @@
 					]
 				},
 				"method": "GET",
-				"header": [
-					{
-						"key": "emailAddress",
-						"value": "parsharpr@gmail.commm",
-						"type": "text"
-					}
-				],
+				"header": [],
 				"url": {
 					"raw": "http://localhost:8090/api/hello",
 					"protocol": "http",
